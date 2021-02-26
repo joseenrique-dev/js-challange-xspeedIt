@@ -10,13 +10,10 @@ It wishes to find an algorithm, which enables its robots to optimize the number 
 
 ### Execution 🔧
 
-
-
-
 ```
 $ node index.js
 ```
-
+![execution_alg](https://user-images.githubusercontent.com/20423639/109254321-cb684800-77bf-11eb-9371-a891cbc24f1e.PNG)
 
 ## Author ✒️
 
