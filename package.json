@@ -1,0 +1,11 @@
+{
+  "name": "challenge-soldev",
+  "version": "1.0.0",
+  "description": "Challange XspeedIt (solDev)",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "author": "José Enrique López Obeso (otipip90@gmail.com)",
+  "license": "ISC"
+}
